@@ -1,0 +1,24 @@
+Test Loss: 0.1379
+Test Accuracy: 0.9880
+Test Dice Coefficient: 0.9095
+Test IoU Score: 0.8342
+Test MSE: 0.0102
+Test MAE: 0.0133
+Test PSNR: 20.4227
+Test SSIM: 0.9080
+
+Mean Dice Score: 0.9102
+Mean IoU Score: 0.8401
+Mean MSE: 0.0101
+Mean MAE: 0.0133
+Mean PSNR: 20.4227 dB
+Mean SSIM: 0.9086
+
+Confusion Matrix:
+[[24126850   124967]
+ [  189070  1773513]]
+
+Accuracy: 0.9880
+Sensitivity (Recall): 0.9037
+Specificity: 0.9948
+Precision: 0.9342
